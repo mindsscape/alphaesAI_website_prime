@@ -651,8 +651,8 @@ h6,
     /* Position alphaesAI text inside the body */
     .carousel-caption {
         position: absolute;
-        top: 50%; /* Adjust this percentage to move text vertically */
-        transform: translateY(-50%);
+        /* top: 50%; #Adjust this percentage to move text vertically
+        transform: translateY(-50%); */
         text-align: center; /* Center text horizontally */
     }
 
